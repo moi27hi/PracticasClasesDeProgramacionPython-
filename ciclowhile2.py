@@ -1,6 +1,6 @@
-i = 0 
+a = 1
 
-while i<10:
-    print('Hola mundo')
-    i += 1
-    
+while a<=20:
+    print(f'{a} Hola mundo.')
+    a += 1
+
